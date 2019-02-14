@@ -1,3 +1,3 @@
 <?php
-$conn=mysqli_connect("localhost","root","12345","cms");
+$conn=mysqli_connect("localhost","akshat8499","akshatdata","cms");
 ?>
