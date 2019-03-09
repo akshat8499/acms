@@ -1,6 +1,7 @@
 <HTML>
   <HEAD>
       <link rel="stylesheet" type="text/css" href="cssfile.css">
+      <title>Page 1</title>
   </HEAD>
   <BODY>
     <ul>
